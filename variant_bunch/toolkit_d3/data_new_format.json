@@ -1,0 +1,27 @@
+{
+  "bars": [
+    {
+      "name": "ACTC1",
+      "bars": [4, 3, 7, 22, 12]
+    },
+    {
+      "name": "ACTN2",
+      "bars": [3, 1, 5, 6, 2]
+    },
+    {
+      "name": "ANKRD1",
+      "bars": [9, 0, 5, 25, 2]
+    },
+    {
+      "name": "CSRP3",
+      "bars": [5, 1, 6, 12, 3]
+    }
+  ],
+  "barNames": [
+    "Under one month",
+    "One to three months",
+    "Three months to one year",
+    "One year to ten years",
+    "Over ten years"
+  ]
+}

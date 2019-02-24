@@ -1,0 +1,20 @@
+.banner {
+  background-color: #339999 !important;
+  height: 160 !important;
+  margin: 0 !important;
+}
+
+.logo {
+  float: right !important;
+  margin-top: -90px !important;
+}
+
+.canvas {
+  background-color: #ececec !important;
+}
+
+.clearfix::after {
+  content: "" !important;
+  clear: both !important;
+  display: table !important;
+}
